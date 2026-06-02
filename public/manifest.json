@@ -1,0 +1,17 @@
+{
+  "name": "家庭收纳",
+  "short_name": "收纳",
+  "description": "家庭物品收纳管理助手",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
